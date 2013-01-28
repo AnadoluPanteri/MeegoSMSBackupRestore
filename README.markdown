@@ -1,5 +1,10 @@
 # SMS Backup and Restore for Meego
 
+Original Version:
+
+https://github.com/wwwjfy/MeegoSMSBackupRestore
+http://talk.maemo.org/showthread.php?t=83166
+
 ## Installation
 
 Deb file can be downloaded from <https://github.com/wwwjfy/MeegoSMSBackupRestore/downloads>.
@@ -41,10 +46,6 @@ Exporting is quite fast as it need not commit to tracker database.
 ## Why not use standard Meego SDK
 
 Because Meego SDK doesn't support SMS manipulation, new SMS can not be in Draft, so I use [Harmattan Platform SDK](http://harmattan-dev.nokia.com/platform-sdk/).
-
-## TODO
-
-GUI
 
 ## Thanks
 

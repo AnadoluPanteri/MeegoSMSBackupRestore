@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=SMS Backup
+Exec=invoker --single-instance --type=e /usr/bin/smsbackuprestore_gui
+Icon=/usr/share/icons/hicolor/80x80/apps/smsbackuprestore_gui.png
+Terminal=false
+Type=Application
+Categories=Utility;
+
